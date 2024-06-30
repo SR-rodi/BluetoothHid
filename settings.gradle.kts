@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "BluetoothHid"
 include(":app")
- 
+include(":hidBluetooth")
